@@ -1,4 +1,4 @@
-from animals.animal import Animal
+from animal_factory.animals import Animal
 
 
 class Cat(Animal):
