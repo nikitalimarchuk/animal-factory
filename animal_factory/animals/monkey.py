@@ -1,4 +1,4 @@
-from animal_factory.animals import Animal
+from .animal import Animal
 
 
 class Monkey(Animal):
